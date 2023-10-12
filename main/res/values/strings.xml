@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c">c</string>
+    <string name="bracket">bracket</string>
+    <string name="percent">percent</string>
+    <string name="divide">divide</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="Three">Three</string>
+    <string name="sum">sum</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="subtract">subtract</string>
+    <string name="seven">seven</string>
+    <string name="eight">eight</string>
+    <string name="nine">nine</string>
+    <string name="multiple">multiple</string>
+    <string name="Allclear">Allclear</string>
+    <string name="zero">Zero</string>
+    <string name="dot">dot</string>
+    <string name="equal">equal</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_0" type="id">button_0</item>
+    <item name="button_sum" type="id">button_sum</item>
+    <item name="button_divide" type="id">button_divide</item>
+    <item name="button_multiple" type="id">button_multiple</item>
+    <item name="button_subtract" type="id">button_subtract</item>
+    <item name="button_equal" type="id">button_equal</item>
+    <item name="button_dot" type="id">button_dot</item>
+    <item name="button_ac" type="id">button_ac</item>
+</resources>
